@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+.fix-size-conteiner {
+    width: 1290px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.margin {
+    margin-bottom: 20px;
+}
+
+.input_height {
+    height: 50px;
+}
+
+.image {
+    display: none;
+}
+
+.js-appear {
+    display: block;
+}
+
+img {
+    width: 400px;
+}
